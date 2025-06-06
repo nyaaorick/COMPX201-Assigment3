@@ -1,3 +1,8 @@
+/**
+ * Test suite for Stack implementation
+ * This test suite verifies the functionality of the Stack class.
+ * Tests are organized by operation type and include edge cases.
+ */
 public class StackTest {
     public static void main(String[] args) {
         System.out.println("=== Stack Testing ===");
